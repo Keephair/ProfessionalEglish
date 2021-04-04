@@ -1,7 +1,7 @@
 
 [进入另一个文件请点击](https://github.com/Keephair/ProfessionalEglish/blob/master/README.md)
 
-web上不同格式的图片
+## web上不同格式的图片：
 
 ![](https://p.ananas.chaoxing.com/star3/270_160c/78f78be50c71105d77f0d50039794235.jpg)
 
